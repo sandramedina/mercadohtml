@@ -1,0 +1,35 @@
+body {
+  background-color: red;
+}
+h1 {
+  color: aqua;
+  font-size: 37px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  color: yellow;
+  font-size: 34px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  font-style: oblique;
+}
+ol {
+  color: blue;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: left;
+  font-style: normal;
+}
+footer {
+  color: green;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: end;
+  font-style: italic;
+}
+.justificado:hover {
+  text-align: justify;
+  color: teal;
+}
